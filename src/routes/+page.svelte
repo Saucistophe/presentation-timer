@@ -17,5 +17,5 @@
 {/each}
 
 {#if timers.length > 0}
-	<a href="/display">GO!</a>
+	<a href="./display">GO!</a>
 {/if}
